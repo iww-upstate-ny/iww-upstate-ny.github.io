@@ -1,0 +1,49 @@
+title: Upstate NY IWW GMB · Industrial Workers of the World
+email: nyc-gmb@wobblycity.org
+baseurl: ""
+url: "https://wobblycity.org"
+description: Autonomously Organizing Workers from Hudson Valley to Buffalo.
+
+future: true
+
+twitter_username: iwwupstateny
+github_username: iwwupstateny
+facebook_username: iwwupstateny
+instagram_username: iwwupstateny
+
+social:
+  name: IWW NYC GMB
+  links:
+    - https://www.twitter.com/iwwupstateny
+    - https://www.facebook.com/iwwupstateny
+    - https://instagram.com/iwwupstateny
+    - https://github.com/iwwupstateny
+
+twitter:
+  username: iwwupstateny
+  card: summary
+
+facebook:
+  publisher: iwwupstateny
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  input: GFM
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+image: /assets/social.png
+logo: /assets/logo.png
+
+collections:
+  events:
+    output: true
+    path: ""
+    permalink: /events/:path/
+
+paginate: 5
+paginate_path: "/news/:num/"
