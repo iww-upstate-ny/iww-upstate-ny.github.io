@@ -3,10 +3,10 @@
   <channel>
     <title>Upstate NY IWW GMB · Industrial Workers of the World</title>
     <description>Autonomously Organizing Workers from Hudson Valley to Buffalo.</description>
-    <link>iww-upstate-ny.github.io/</link>
-    <atom:link href="iww-upstate-ny.github.io/feed.newsletter.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Mar 2019 13:38:44 -0400</pubDate>
-    <lastBuildDate>Sun, 10 Mar 2019 13:38:44 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.newsletter.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Mar 2019 13:40:00 -0400</pubDate>
+    <lastBuildDate>Sun, 10 Mar 2019 13:40:00 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator><item>
       <title>January Newsletter</title>
       <description>&lt;p&gt;Fellow Workers,&lt;br /&gt;&lt;br /&gt;
@@ -29,8 +29,8 @@ In addition to the events listed below, you can always check the &lt;a href=&quo
 &lt;a href=&quot;https://psmag.com/news/how-rush-city-inmates-organized-a-successful-prison-strike&quot;&gt;“How Rush City Inmates Organized a Successful Prison Strike,”&lt;/a&gt; &lt;em&gt;Pacific Standard&lt;/em&gt; (by FW Arvind of the NYC GMB)&lt;/p&gt;&lt;br /&gt;
 </description>
       <pubDate>Fri, 29 Mar 2019 01:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2019/3/29/january-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2019/3/29/january-newsletter</guid>
+      <link>http://localhost:4000/news/2019/3/29/january-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2019/3/29/january-newsletter</guid>
     </item><item>
       <title>December Newsletter</title>
       <description>&lt;p&gt;Fellow Workers,&lt;br /&gt;&lt;br /&gt;
@@ -50,8 +50,8 @@ In addition to the events listed below, you can always check the &lt;a href=&quo
 “&lt;a href=&quot;https://medium.com/s/story/what-dread-mondays-capitalism-or-something-else-295e55500990&quot;&gt;You Don’t Hate Mondays, You Hate Not Being Yourself&lt;/a&gt;” &lt;em&gt;Medium&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;
 </description>
       <pubDate>Wed, 26 Dec 2018 22:34:16 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/12/26/december-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/12/26/december-newsletter</guid>
+      <link>http://localhost:4000/news/2018/12/26/december-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/12/26/december-newsletter</guid>
     </item><item>
       <title>November Newsletter</title>
       <description>&lt;p&gt;Fellow Workers,
@@ -76,8 +76,8 @@ In addition to the events listed below, you can always check the &lt;a href=&quo
 “&lt;a href=&quot;http://inthesetimes.com/working/entry/21530/trump_nlrb_union_pickets_illegal_labor_joint_employer&quot;&gt;Trump’s NLRB Just Quietly Ruled to Make Union Pickets Illegal&lt;/a&gt;,” &lt;em&gt;In These Times&lt;/em&gt;&lt;/p&gt;
 </description>
       <pubDate>Sun, 25 Nov 2018 13:19:10 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/11/25/november-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/11/25/november-newsletter</guid>
+      <link>http://localhost:4000/news/2018/11/25/november-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/11/25/november-newsletter</guid>
     </item><item>
       <title>October Newsletter</title>
       <description>&lt;p&gt;
@@ -126,8 +126,8 @@ The Wobfest was a huge success! Thank you to all FWs who helped organize the eve
 &lt;/p&gt;
 </description>
       <pubDate>Mon, 22 Oct 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/10/22/october-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/10/22/october-newsletter</guid>
+      <link>http://localhost:4000/news/2018/10/22/october-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/10/22/october-newsletter</guid>
     </item><item>
       <title>September Newsletter</title>
       <description>&lt;p&gt;
@@ -178,8 +178,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Wed, 26 Sep 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/9/26/september-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/9/26/september-newsletter</guid>
+      <link>http://localhost:4000/news/2018/9/26/september-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/9/26/september-newsletter</guid>
     </item><item>
       <title>August Newsletter</title>
       <description>&lt;p&gt;
@@ -236,8 +236,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Sun, 26 Aug 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/8/26/august-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/8/26/august-newsletter</guid>
+      <link>http://localhost:4000/news/2018/8/26/august-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/8/26/august-newsletter</guid>
     </item><item>
       <title>July Newsletter</title>
       <description>&lt;p&gt;
@@ -304,8 +304,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Mon, 16 Jul 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/7/16/july-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/7/16/july-newsletter</guid>
+      <link>http://localhost:4000/news/2018/7/16/july-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/7/16/july-newsletter</guid>
     </item><item>
       <title>June Newsletter</title>
       <description>&lt;p&gt;
@@ -372,8 +372,8 @@ Before the next meeting, the branch will hold an orientation session for new mem
 &lt;/p&gt;
 </description>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/6/19/june-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/6/19/june-newsletter</guid>
+      <link>http://localhost:4000/news/2018/6/19/june-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/6/19/june-newsletter</guid>
     </item><item>
       <title>May Newsletter</title>
       <description>&lt;p&gt;
@@ -444,8 +444,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Sat, 12 May 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/5/12/may-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/5/12/may-newsletter</guid>
+      <link>http://localhost:4000/news/2018/5/12/may-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/5/12/may-newsletter</guid>
     </item><item>
       <title>April Newsletter</title>
       <description>&lt;p&gt;
@@ -512,8 +512,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Thu, 12 Apr 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/4/12/april-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/4/12/april-newsletter</guid>
+      <link>http://localhost:4000/news/2018/4/12/april-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/4/12/april-newsletter</guid>
     </item><item>
       <title>March Newsletter</title>
       <description>&lt;p&gt;
@@ -572,8 +572,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Mon, 19 Mar 2018 00:00:00 -0400</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/3/19/march-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/3/19/march-newsletter</guid>
+      <link>http://localhost:4000/news/2018/3/19/march-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/3/19/march-newsletter</guid>
     </item><item>
       <title>February Newsletter</title>
       <description>&lt;p&gt;
@@ -638,8 +638,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Thu, 15 Feb 2018 00:00:00 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/2/15/february-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/2/15/february-newsletter</guid>
+      <link>http://localhost:4000/news/2018/2/15/february-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/2/15/february-newsletter</guid>
     </item><item>
       <title>January Newsletter</title>
       <description>&lt;p&gt;
@@ -692,8 +692,8 @@ In addition to the events listed here, you can always check the &lt;a href=&quot
 &lt;/p&gt;
 </description>
       <pubDate>Thu, 11 Jan 2018 00:00:00 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2018/1/11/january-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2018/1/11/january-newsletter</guid>
+      <link>http://localhost:4000/news/2018/1/11/january-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2018/1/11/january-newsletter</guid>
     </item><item>
       <title>December Newsletter</title>
       <description>&lt;p&gt;
@@ -742,8 +742,8 @@ In August, the NYC GDC held a successful fundraiser for J20 defendants (which in
 &lt;/p&gt;
 </description>
       <pubDate>Tue, 26 Dec 2017 00:00:00 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2017/12/26/december-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2017/12/26/december-newsletter</guid>
+      <link>http://localhost:4000/news/2017/12/26/december-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2017/12/26/december-newsletter</guid>
     </item><item>
       <title>November Newsletter</title>
       <description>&lt;p&gt;
@@ -795,7 +795,7 @@ In August, the NYC GDC held a successful fundraiser for J20 defendants, which in
 &lt;/p&gt;
 </description>
       <pubDate>Fri, 17 Nov 2017 00:00:00 -0500</pubDate>
-      <link>iww-upstate-ny.github.io/news/2017/11/17/november-newsletter</link>
-      <guid isPermaLink="true">iww-upstate-ny.github.io/news/2017/11/17/november-newsletter</guid>
+      <link>http://localhost:4000/news/2017/11/17/november-newsletter</link>
+      <guid isPermaLink="true">http://localhost:4000/news/2017/11/17/november-newsletter</guid>
     </item></channel>
 </rss>
